@@ -3,6 +3,8 @@
 > [MICROBYTE.md](MICROBYTE.md) for the pin map, the changes against upstream, build and
 > flash instructions, and the font/licensing notes.
 
+>[microByte Official Repo](https://github.com/jfm92/microByte)
+
 # Table of contents
 - [Description](#description)
 - [Installation](#installation)
